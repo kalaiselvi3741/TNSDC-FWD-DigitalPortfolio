@@ -1,0 +1,3 @@
+function welcomeNote() {
+  alert("Hey 👋 Welcome to KalaiSelvi's colorful portfolio 💜✨");
+}
